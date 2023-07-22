@@ -1,0 +1,22 @@
+h1 {
+    color: green; 
+    background-color: yellow; 
+    font-size: 24px;
+    border: dotted 6px black;
+    margin-top:80px;
+    margin-bottom:60px;
+    margin-right:40px;
+    position: relative;
+    top: 50px;
+    left: 80px;
+}
+p {
+    color: red; 
+    background-color: skyblue; 
+    font-size: 14px;
+    border: dashed 4px red;
+    padding: 40px 40px;
+}
+.abc{
+     font-family:"Cosmic Sans MS",cursive,sans-serif;
+    }
